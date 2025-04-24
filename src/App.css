@@ -1,0 +1,14 @@
+.toolTip {
+  padding: 1px 5px;
+  border-radius: 4px;
+  display: none;
+  position: absolute;
+  top: -20px;
+  right: 10px;
+  background-color: rgba(58, 56, 56, 0.866);
+  z-index: 1;
+}
+
+.info:hover .toolTip {
+  display: block;
+}
