@@ -2,8 +2,8 @@
     {
         "_id":"67ae088bd931e80535f067b4",
         "name":"c&b admin",
-        "email":"cb-admin@gmail.com",
-        "password":"cbfreelance@2025",
+        "email":"youradmin@gmail.com",
+        "password":"password",
         "isEmailVerified":true,
         "role":"admin",
         "active":true,
@@ -12,8 +12,8 @@
     {
         "_id":"67ae088bd931e80535f069y4",
         "name":"c&b admin",
-        "email":"cb-manager@gmail.com",
-        "password":"cbfreelance@2025",
+   "email":"youradmin@gmail.com",
+        "password":"password",
         "isEmailVerified":true,
         "role":"manager",
         "active":true,
